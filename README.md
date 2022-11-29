@@ -1,9 +1,8 @@
-# course-angular
-Course Angular 2022/23
+# Course Angular 2022/23
 
-This repository contains the code developed during the course Angular on the [Google CLASSROOM](https://classroom.google.com/c/NTcwODg1MDc1NDU5?cjc=obynv4h).
+This repository contains the code developed during the Angular course held on the [Google CLASSROOM](https://classroom.google.com/c/NTcwODg1MDc1NDU5?cjc=obynv4h).
 
-![Angular Course - Fundamentals Course](https://s3-us-west-1.amazonaws.com/angular-university/course-images/security-cover-small-v2.png)
+![Angular Course](https://github.com/marcomattolab/course-angular/blob/main/angular-course.png)
 
 
 # Installing the Angular CLI
